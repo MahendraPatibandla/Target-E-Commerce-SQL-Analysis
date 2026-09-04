@@ -56,9 +56,9 @@ The original problem statement asks the analyst to perform exploratory analysis 
 
 The project attempts to answer the following business questions:
 
-Customer Analysis
-What is the structure of the customer data?
-What is the order date range?
+* Customer Analysis
+* What is the structure of the customer data?
+* What is the order date range?
 Which cities and states have customers who placed orders?
 How are customers distributed across Brazilian states?
 Order Analysis
