@@ -59,28 +59,28 @@ The project attempts to answer the following business questions:
 * Customer Analysis
 * What is the structure of the customer data?
 * What is the order date range?
-Which cities and states have customers who placed orders?
-How are customers distributed across Brazilian states?
-Order Analysis
-Is there a growing trend in the number of orders?
-What are the monthly order patterns?
-During which time of day are customers placing the most orders?
-Regional E-Commerce Analysis
-What is the month-on-month order volume?
-How are customers distributed across states?
-Economic Analysis
-How did order payment value change between 2017 and 2018?
-What are the total and average order prices by state?
-What are the total and average freight values by state?
-Delivery Analysis
-How many days does it take to deliver an order?
-How does actual delivery compare with the estimated delivery date?
-Which states have the highest average freight?
-Which states have the highest average delivery time?
-Payment Analysis
-How many orders are placed using different payment types?
-How does payment behavior change month by month?
-How many orders use different installment counts?
+* Which cities and states have customers who placed orders?
+* How are customers distributed across Brazilian states?
+* Order Analysis
+* Is there a growing trend in the number of orders?
+* What are the monthly order patterns?
+* During which time of day are customers placing the most orders?
+* Regional E-Commerce Analysis
+* What is the month-on-month order volume?
+* How are customers distributed across states?
+* Economic Analysis
+* How did order payment value change between 2017 and 2018?
+* What are the total and average order prices by state?
+* What are the total and average freight values by state?
+* Delivery Analysis
+* How many days does it take to deliver an order?
+* How does actual delivery compare with the estimated delivery date?
+* Which states have the highest average freight?
+* Which states have the highest average delivery time?
+* Payment Analysis
+* How many orders are placed using different payment types?
+* How does payment behavior change month by month?
+* How many orders use different installment counts?
 
 
 # 💡 Potential Business Recommendations
@@ -95,6 +95,7 @@ Better logistics partnerships
 Regional warehouses
 Optimized delivery routes
 Improved inventory placement
+
 2. Improve Delivery Performance
 
 States with higher average delivery times can be studied to identify potential:
@@ -103,6 +104,7 @@ Transportation bottlenecks
 Carrier issues
 Warehouse distance problems
 Regional logistics challenges
+
 3. Use Order Timing for Marketing
 
 Understanding monthly and time-of-day order patterns can help optimize:
@@ -111,9 +113,11 @@ Digital advertising
 Promotional campaigns
 Flash sales
 Customer engagement
+
 4. Optimize Payment Options
 
 Payment type and installment analysis can help the business understand customer preferences and improve the checkout experience.
+
 
 5. Monitor E-Commerce Growth
 
