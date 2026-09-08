@@ -236,5 +236,3 @@ SQL SQL Server T-SQL Data Analysis Data Cleaning CTEs Window Functions Joins Dat
 This project was completed as a practical SQL data analysis exercise based on the provided Target E-Commerce Problem Statement.
 
 The analysis focuses on transforming raw e-commerce data into meaningful business insights using SQL.
-
-# ⭐ If you found this project useful, consider giving the repository a star!
