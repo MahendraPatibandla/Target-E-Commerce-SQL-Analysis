@@ -31,7 +31,7 @@ The analysis focuses on:
 - Comparing actual delivery dates with estimated delivery dates
 - Understanding payment-method and installment behavior
 
-The project requirements specifically ask for exploratory analysis, order evolution, economic impact, delivery performance, and payment analysis. fileciteturn0file0L3-L5 fileciteturn0file0L7-L12
+The project requirements specifically ask for exploratory analysis, order evolution, economic impact, delivery performance, and payment analysis.
 
 ---
 
